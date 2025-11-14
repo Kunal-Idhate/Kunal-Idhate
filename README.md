@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kunal9673" target="blank"><img src="https://img.shields.io/twitter/follow/kunal9673?logo=twitter&style=for-the-badge" alt="kunal9673" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **Spring Cloud, Micro-Services , Docker**
 
-- 💬 Ask me about **React, JavaScript, Frontend Web Development**
+- 💬 Ask me about **React, JavaScript, Spring-Boot, MySQL , Next.js**
 
 - 📫 How to reach me **kunalidhate953@gmail.com**
 
